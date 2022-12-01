@@ -9,6 +9,8 @@ Jeu d'escrime 2D (sur terminal) et (version graphique)
 Pour compiler la version il faut faire:
 * cd terminal
 * python main.py <br />
+
+
 Pour compiler la version graphique il faut faire:
 * cd version_graphique
 * python main.py
