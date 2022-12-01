@@ -1,6 +1,10 @@
 # Escrime_jeu
 Jeu d'escrime 2D (sur terminal) et (version graphique)
 
+# Introduction
+Ce jeu est un projet en Master Informatique qui nous a été proposé pour validé nos acquis.
+Il a été implémenté comme demandé dans le sujet du projet.
+
 # Module à télécharger
 * pynput ---> pip3 install pynput
 * pygame ---> pip3 install pynput
@@ -27,7 +31,10 @@ Je vous conseille de lancer une game par terminal car le jeu n'est pas vraiment 
 
 # Version graphique
 
-Pour la version graphique, tout est pareil que dans la version terminale à un détail près la sauvegarde et le rechargement du jeu ne sont pas implémenté. <br/>
+Pour la version graphique, tout est pareil que dans la version terminale à un détail près la sauvegarde <br/>
+et le rechargement du jeu ne sont pas implémenté. <br/>
 Il n'y a pas de bruitage lors des déplacements des joueurs.<br/>
 
 # But du jeu
+
+Le but de jeu est de s'amuser personne ne gagne personne ne perd. <br/>
