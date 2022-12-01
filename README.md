@@ -2,7 +2,7 @@
 Jeu d'escrime 2D (sur terminal) et (version graphique)
 
 # Introduction
-Ce jeu est un projet en Master Informatique qui nous a été proposé pour validé nos acquis.
+Ce jeu est un projet en Master Informatique qui nous a été proposé pour validé nos acquis.<br/>
 Il a été implémenté comme demandé dans le sujet du projet.
 
 # Module à télécharger
