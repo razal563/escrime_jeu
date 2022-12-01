@@ -37,4 +37,4 @@ Il n'y a pas de bruitage lors des déplacements des joueurs.<br/>
 
 # But du jeu
 
-Le but de jeu est de s'amuser personne ne gagne personne ne perd. <br/>
+Le but du jeu est de s'amuser personne ne gagne personne ne perd. <br/>
